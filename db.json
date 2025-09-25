@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "balance": {
+    "value": 50000
   }
 }
