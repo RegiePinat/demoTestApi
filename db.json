@@ -11,7 +11,9 @@
   "profile": {
     "name": "typicode"
   },
-  "balance": {
-    "value": 50000
-  }
+  "balances": [
+    { "id": 1, "username": "admin", "balance": "50000" },
+    { "id": 2,"username": "admin2", "balance": "60000" },
+    { "id": 3,"username": "admin3", "balance": "70000" }
+  ],
 }
