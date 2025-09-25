@@ -12,8 +12,7 @@
     "name": "typicode"
   },
   "balances": [
-    { "id": 1, "username": "admin", "balance": "50000" },
-    { "id": 2,"username": "admin2", "balance": "60000" },
-    { "id": 3,"username": "admin3", "balance": "70000" }
-  ],
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
 }
